@@ -45,5 +45,6 @@ Manipulação de eventos
 Pensamento lógico para resolução de problemas
 <br><br>
 <div>
-  <imc src="https://github.com/user-attachments/assets/83b07677-d5fe-44e0-a3fe-9e14069f8d0d"
+  <imc src="https://github.com/user-attachments/assets/352955e3-535a-4eb5-b3fe-6ad0fd493988"
+
 </div>
