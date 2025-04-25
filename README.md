@@ -1,7 +1,7 @@
 📱 Calculadora de IMC <br>
 Projeto<br>
 Desenvolvi esta calculadora para aplicar meus conhecimentos iniciais em desenvolvimento Front-End, demonstrando:<br>
-
+ 
 Capacidade de aprender tecnologias básicas
 <br>
 Habilidade para implementar lógica simples
