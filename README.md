@@ -7,15 +7,17 @@ Capacidade de aprender tecnologias básicas
 Habilidade para implementar lógica simples
 <br>
 Preocupação com experiência do usuário
+<br><br>
+🛠 Tecnologias Utilizadas
 <br>
-🛠 Tecnologias Utilizadas<br>
 HTML5: Estrutura semântica
 <br>
 CSS3: Estilização básica
 <br>
 JavaScript: Lógica de cálculo
+<br><br>
+🔍 O Que Faz
 <br>
-🔍 O Que Faz<br>
 Recebe peso e altura do usuário
 <br>
 Calcula o IMC (Índice de Massa Corporal)
